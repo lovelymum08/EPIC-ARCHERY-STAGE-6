@@ -1,2 +1,1 @@
-# EPIC-ARCHERY-STAGE-6
-game
+# Project Template 28
